@@ -16,7 +16,7 @@
 
 #define PFX "."
 
-#define BASE_ADDR "http://srv24711.blue.kundencontroller.de/4Pics1Word"
+#define BASE_ADDR "http://fria.bsdforall.org/4Pics1Word"
 #define HTML_FILE "index.html"
 #define DATA_FILE "PhotoData.txt"
 #define SCORE_FILE "score.txt"
