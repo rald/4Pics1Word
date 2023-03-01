@@ -53,8 +53,10 @@ char clue[STRING_MAX];
 char letters[STRING_MAX];
 
 char *html =
+		"<!DOCTYPE html>"
     "<html>\n"
     "\t<head>\n"
+    "\t\t<meta name='viewport' content='width=device-width, initial-scale=1.0'>\n"
     "\t\t<style>\n"
     "\t\t\t.container {\n"
     "\t\t\t\tposition: absolute;\n"
